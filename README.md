@@ -3,7 +3,10 @@
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoalbunio/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.albunio@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gustavoalbunio&show_icons=true&theme=dracula)
+<div style="display: flex; justify-content: flex-start; gap: 1rem">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gustavoalbunio&show_icons=true&theme=dracula" /> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" height="100%" />
+</div>
 
 ## Tecnologias que uso no meu dia
 
