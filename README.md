@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gustavo Albunio ✋
 
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoalbunio/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gustavo.albunio@gmail.com)](mailto:mendes.m.filipe@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.albunio@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gustavoalbunio&show_icons=true&theme=dracula)
 
