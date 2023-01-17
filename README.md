@@ -5,7 +5,7 @@
 
 <div style="display: inline-block">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gustavoalbunio&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" height="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavoalbunio&layout=compact&theme=dracula" height="100%" />
 </div>
 
 ## Tecnologias que uso no meu dia
